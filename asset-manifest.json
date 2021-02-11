@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bisroka/fpwd-movie-exercise/static/css/main.b43223c4.chunk.css",
+    "main.js": "/bisroka/fpwd-movie-exercise/static/js/main.d1474e80.chunk.js",
+    "main.js.map": "/bisroka/fpwd-movie-exercise/static/js/main.d1474e80.chunk.js.map",
+    "runtime-main.js": "/bisroka/fpwd-movie-exercise/static/js/runtime-main.a3cba7d1.js",
+    "runtime-main.js.map": "/bisroka/fpwd-movie-exercise/static/js/runtime-main.a3cba7d1.js.map",
+    "static/js/2.bc4e1ed3.chunk.js": "/bisroka/fpwd-movie-exercise/static/js/2.bc4e1ed3.chunk.js",
+    "static/js/2.bc4e1ed3.chunk.js.map": "/bisroka/fpwd-movie-exercise/static/js/2.bc4e1ed3.chunk.js.map",
+    "index.html": "/bisroka/fpwd-movie-exercise/index.html",
+    "static/css/main.b43223c4.chunk.css.map": "/bisroka/fpwd-movie-exercise/static/css/main.b43223c4.chunk.css.map",
+    "static/js/2.bc4e1ed3.chunk.js.LICENSE.txt": "/bisroka/fpwd-movie-exercise/static/js/2.bc4e1ed3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3cba7d1.js",
+    "static/js/2.bc4e1ed3.chunk.js",
+    "static/css/main.b43223c4.chunk.css",
+    "static/js/main.d1474e80.chunk.js"
+  ]
+}
