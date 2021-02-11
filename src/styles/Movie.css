@@ -1,0 +1,42 @@
+.movie{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: auto;
+    grid-template-areas: 'poster description';
+    padding: 2em;
+}
+
+.movie-poster{
+    grid-area: poster;
+    margin: 0 auto;
+
+}
+.movie-description{
+    grid-area: description;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.movie-description p{
+    margin: 0.3em;
+    text-align: left;
+}
+.movie-title {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.movie-attribution {
+    font-weight: bold;
+}
+.movie-ratings{
+    text-align: left;
+    margin: 0.8em 0;
+}
+
+.movie-ratings-title{
+    font-weight: bold;
+    font-size: 1.1em;
+}
+.movie-rating-source{
+    font-weight: bold;
+}
